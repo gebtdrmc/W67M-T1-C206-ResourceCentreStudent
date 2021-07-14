@@ -1,4 +1,4 @@
-
+// this is camcorder class
 public class Camcorder extends Item{
 	private int opticalZoom;
 

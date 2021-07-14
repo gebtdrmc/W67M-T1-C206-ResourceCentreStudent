@@ -80,7 +80,7 @@ public class ResourceCentreTest {
 	}
 	@Test
 	public void testRetrieveAllChromebook() {
-		assertNotNull("Check if there is a valid Camcorder arraylist to add to", camcorderList);
+		//assertNotNull("Check if there is a valid Camcorder arraylist to add to", camcorderList);
 		
 		//fail("Not yet implemented");
 		// write your code here
